@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1580915796 source:c:\users\darian\desktop\nea project\chess game\main.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<string>
+	<stdio.h>
+	"texture.h"
+
+1580914621 c:\users\darian\desktop\nea project\chess game\texture.h
+
+1580915796 source:c:\users\darian\desktop\desktop\nea project\chess game\main.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<string>
+	<stdio.h>
+	"texture.h"
+
+1580914621 c:\users\darian\desktop\desktop\nea project\chess game\texture.h
+
